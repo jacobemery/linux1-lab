@@ -138,3 +138,5 @@ You've been introduced to quite a few commands already:
 * `cat <file>` to see what's in a file
 * `clear` to clear the screen
 * `cd <directory>` to change directories
+
+## You are now ready to move on to [step 5](./5_services.md) to learn how to manage Linux services.

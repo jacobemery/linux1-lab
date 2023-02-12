@@ -1,5 +1,6 @@
 # Managing Linux Services
 ## Follow these steps to learn the basics of managing services in the Linux terminal.
+If you need to learn (or refresh your memory) about the basics of navigating the Linux terminal first, return to [step 4](./4_navigate.md).
 * One of the many uses for a Linux server is running services.
 * With Linux on IBM zSystems, these services are highly-available at the hardware level. Always ready for what you throw at them.
 * That's right! This whole time you've been running Linux on IBM zSystems, and you would've barely known it.
