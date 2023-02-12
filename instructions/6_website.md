@@ -67,9 +67,16 @@ Are you starting to see how to the internet is formed?
 * So although this is far from a full-fledged website, hopefully this helped you get a better picture of how the internet works, and you learned some Linux terminal skills along the way!
 
 ## Review
-Congratulations! You've made it a long way in this tutorial of the basics of the Linux terminal. You now have the beginnings of a website, and you've learned some more commands:
+You've made it a long way in this tutorial of the basics of the Linux terminal. You now have the beginnings of a website, and you've learned some more commands:
 * `touch <file>` to create a file
 * `vi <file>` to edit a file
 * `mkdir <directory>` to create a directory
 * `rm <file>` to delete a file
 * `rmdir <directory>` to delete a directory
+
+## Hands-On Lab Complete!
+* Nice work!! If you've made it this far, you're well on your well to becoming a Linux terminal pro!
+* I hope this tutorial was helpful and interesting for you.
+* You will have access to this server for about a week and a half, but you can request a two-week extension by emailing linux1@us.ibm.com
+* If you have comments, questions, feedback concerns, I'd love to hear them! 
+* Please reach out to me at jacob.emery@ibm.com
