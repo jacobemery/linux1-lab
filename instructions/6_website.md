@@ -8,7 +8,7 @@ http://<ip-address>
 Again, make sure to type in 'http' not 'https', sometimes web browsers will automatically switch it to 'https'. If this happens, use Firefox.
 
 ## Adding a Custom Homepage to your Website
-* So now you have a website running, but it's not really that interesting. It doesn't feel like it's ~yours~ yet. 
+* So now you have a website running, but it's not really that interesting. It doesn't feel like it's <i>yours</i> yet. 
 * Let's get rid of this default test page by adding a homepage of our own!
 * Website contents for httpd are stored in the directory `/var/www/html`.
 * You may recognize 'www' from URLs you've seen before on the internet, and 'html' refers to Hyper-Text Markup Language. You can read more about HTML [here](https://www.hostinger.com/tutorials/what-is-html).
