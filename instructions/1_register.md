@@ -11,5 +11,5 @@ If you are doing this training outside of an official class, the EventCode is no
 4) Once you've filled everything in, click on the `Request your trial` button. \
 5) Look in your email for your activation link. You should have received an email from `noreply@linuxone.cloud.marist.edu` titled: "IBM LinuxONE Community Cloud Registration - Action required to complete". \
 6) Click the `Activate your account or entitlement` link, which is valid for 48 hours. \
-7) Click the `Sign in` button on the page it takes you to. \
+7) Click the `Sign in` button on the page it takes you to. 
 ## You are now ready for [step 2](./2_provision.md), where you will provision (setup) your virtual server.
