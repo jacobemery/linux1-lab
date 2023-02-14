@@ -21,11 +21,17 @@ touch /var/www/html/index.html
 ```
 cd /var/www/html
 ```
-* Now use the `vi` command to edit your newly created `index.html` file.
+* Now use the `vi` command to open the 'visual' text editor and customize your newly created `index.html` file.
 ```
 vi index.html
 ```
-* `vi` is short for 'visual', and it is the basic text editor of the Linux terminal.
+* Which will open an empty page that looks like this:
+```
+
+~
+~
+~
+```
 * To start editing, press the `i` key to enter 'insert' mode.
 * Now go wild! Fill your index.html file with text, headers, colors, images! Customize to your hearts content! Do whatever you want with your website! Refer to this [HTML cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf) for a quick guide on getting the most out of your customization.
 * When you are done editing, hit the `Esc` key to exit 'insert' mode, then type `:wq` to 'write' (save) and 'quit'.
