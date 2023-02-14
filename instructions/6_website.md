@@ -30,7 +30,7 @@ vi index.html
 * Now go wild! Fill your index.html file with text, headers, colors, images! Customize to your hearts content! Do whatever you want with your website! Refer to this [HTML cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf) for a quick guide on getting the most out of your customization.
 * When you are done editing, hit the `Esc` key to exit 'insert' mode, then type `:wq` to 'write' (save) and 'quit'.
 * If you want to quit without saving, do the same as above, except `:q!`
-* To return editing your index file again, use the `vi` command again, but
+* To return editing your index file again, use the `vi` command again.
 * <b>Pro Tip!</b> You can use the `Tab` key to autocomplete path and file names. Try it out the nex time you're typing in a filename, i.e. `vi in<tab>` and it should autocomplete the filename `index.html` for you.
 ## Creating Webpages
 * Now that we have a homepage squared away (I hope you got creative!), you can create other pages for your website too.
