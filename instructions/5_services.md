@@ -108,7 +108,7 @@ httpd.service - The Apache HTTP Server
 * The service `firewalld` helps us easily manage firewall rules.
 * Let's get the `firewalld` service started <i>and</i> enabled. We can achieve this with one command, like this:
 ```
-systemctl firewalld enable --now
+systemctl enable firewalld --now
 ```
 * The service firewalld should now be started <i>and</i> enabled on your system. You can double-check it with systemctl status.
 * Now that we have firewalld running, we can easily allow http traffic (default port 80).
