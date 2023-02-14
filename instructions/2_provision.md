@@ -1,7 +1,7 @@
 # Provisioning your IBM LinuxONE Virtual Server
 ## Follow these steps to setup your IBM LinuxONE virtual server for the first time.
 * If you have not yet registered for an account, return to [step 1](./1_register.md) for instructions. 
-* If you have already provisioned your virtual server, choose the correct step 3 instructions page based on whether you are using [Windows](./3_windows_connect.md) or [Mac](./3_mac_connect.md).
+* If you have already provisioned your virtual server, choose the correct step 3 instructions page based on whether you are using either [Windows](./3_windows_connect.md) or [Mac](./3_mac_connect.md).
 
 1) Sign in to the [IBM LinuxONE Community Cloud website](https://linuxone.cloud.marist.edu/#/login) using Firefox or Google Chrome: 
 
