@@ -9,7 +9,7 @@
 
 3) Stick with me here, this part's a little tricky. If you need help please ask me! In the terminal prompt, type in the following command, but substitute in the path to your private key file that you created when provisioning your virtual server:
 ```
-chmod 600 <path-to-key-file>
+chmod 400 <path-to-key-file>
 ```
 For example:
 ```
