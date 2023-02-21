@@ -66,8 +66,8 @@ rmdir page2
 * You can also delete directories with the `rm` command with the `-r` for 'recursive' option. When ombined with the `-f` this can be a powerful, and very dangerous command, especially when run as root, so be careful!
 
 ## Big Picture
-Are you starting to see how to the internet is formed?
-* It's all made up of servers exposing files to each other over publicly accessible networks. The files are get fancier, with [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS), but the concepts are the same.
+Are you starting to see how the internet is formed?
+* It's all made up of servers exposing files to each other over publicly accessible networks. The files get fancier, with [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS), but the concepts are the same.
 * And instead of using IP addresses to access those servers' files, we generally use names like [www.ibm.com](www.ibm.com) instead, right? These names are converted to IP addresses by [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) (or Domain Name System). You could [purchase a domain name](https://www.pcmag.com/news/how-to-register-a-domain-name-for-your-website) for your website so that people could more easily find and navigate to it!
 * Although since we only have `http` set up, and not `https` (["What's the difference?](https://www.keycdn.com/blog/difference-between-http-and-https)), people would get a security warning before they got to your website.
 * So although this is far from a full-fledged website, hopefully this helped you get a better picture of how the internet works, and you learned some Linux terminal skills along the way!
@@ -83,6 +83,6 @@ You've made it a long way in this tutorial of the basics of the Linux terminal. 
 ## Hands-On Lab Complete!
 * Nice work!! If you've made it this far, you're well on your well to becoming a Linux terminal pro!
 * I hope this tutorial was helpful and interesting for you.
-* You will have access to this server for about a week and a half, but you can request a two-week extension by emailing linux1@us.ibm.com
+* If you would like to do another hands-on lab about Ansible on IBM zSystems, check it out [here](https://github.com/jacobemery/linux1-ansible-lab/tree/general)!
 * If you have comments, questions, feedback concerns, I'd love to hear them! 
 * Please reach out to me at jacob.emery@ibm.com

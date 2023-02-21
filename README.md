@@ -1,5 +1,5 @@
 # Welcome to the Linux on IBM zSystems and LinuxONE Basics Hands-on Lab!
-## Here you will find [instructions](./instructions/) for the hands-on labs for the course administered by Jacob Emery in February, 2023! 
+## Here you will find [instructions](./instructions/) for a hands-on lab created by Jacob Emery from IBM's Washington Systems Center. 
 
 ## [Let's get started!](./instructions/1_register.md)
 
